@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Credit Card Form MIRG</string>
+    <string name="title_activity_credit_mirg2">CreditMirg2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+
+    <string name="nombre">MATIAS ROJAS GODOY </string>
+    <string name="numeroT">5569 0225 3366 0963</string>
+    <string name="fecha">Mes</string>
+    <string name="BUSCAR">Buscar</string>
+    <string name="UPDATE">Actualizar</string>
+
+
+    <string name="Name">Nombres</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Tarjeta">Numero tarjeta</string>
+    <string name="ANO">Año</string>
+    <string name="CalleNumero">Calle y Numero</string>
+    <string name="Ciudad">Ciudad</string>
+    <string name="Estado">Estado/Region</string>
+    <string name="Postal">C.Postal</string>
+    <string name="CVC">CVC</string>
+
+
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
